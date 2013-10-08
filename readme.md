@@ -3,7 +3,8 @@ I was trying to find something that would:
 1. Display children of a custom menu on the parent page. 
 2. Siblings of a custom menu on sub pages.
 
-This is what I came up with. 
+This is what I came up with... I am sure it could probably be done cleaner.
+Enjoy.  
 
 
 # Bugs.
