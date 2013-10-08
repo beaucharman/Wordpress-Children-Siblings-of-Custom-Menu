@@ -11,7 +11,6 @@ if ($menuItems && isset($post->ID) ):
 			} else {
 				//set the variable to the current list item ID so we can find the children
 				$childrenof = $menuItem->db_id;
-				$isParent = true;
 			}
 		}
 
